@@ -18,3 +18,4 @@
 
 
 ## Apresentações e arquivos de 'http://github.com/senai-desenvolvimento'
+## Variáveis de ambiente: 'https://docs.rocketseat.dev/ambiente-react-native/introducao'
