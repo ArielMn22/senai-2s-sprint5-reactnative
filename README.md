@@ -16,6 +16,7 @@
 ### `npm install --save react-native-gesture-handler`
 ### `react-native link react-native-gesture-handler`
 
-
-## Apresentações e arquivos de 'http://github.com/senai-desenvolvimento'
-## Variáveis de ambiente: 'https://docs.rocketseat.dev/ambiente-react-native/introducao'
+## Links Interessantes
+# Apresentações e arquivos de 'http://github.com/senai-desenvolvimento'
+# Variáveis de ambiente: 'https://docs.rocketseat.dev/ambiente-react-native/introducao'
+# Solução para erro: https://stackoverflow.com/questions/57104357/react-native-task-appvalidatesigningdebug-failed
