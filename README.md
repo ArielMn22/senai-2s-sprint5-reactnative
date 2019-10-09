@@ -29,12 +29,12 @@
 <br />
 
 ## Utilizar os seguintes pacotes para fazer a tab navigation
-### `npm install --save react-navigation`
-### `npm install --save react-navigation-tabs`
-### `npm install --save react-native-reanimate`
-### `npm install --save react-native-screens`
-### `npm install --save react-native-gesture-handler`
-### `react-native link react-native-gesture-handler`
+### `react-navigation`
+### `react-native-gesture-handler`
+### `react-navigation-tabs`
+### `react-native-reanimate`
+### OBS: Instale-os através do npm ou yarn.
+
 <br />
 
 ## Links Interessantes
