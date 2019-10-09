@@ -32,7 +32,7 @@
 ### `react-navigation`
 ### `react-native-gesture-handler`
 ### `react-navigation-tabs`
-### `react-native-reanimate`
+### `react-native-reanimated`
 ### OBS: Instale-os através do npm ou yarn.
 
 <br />
